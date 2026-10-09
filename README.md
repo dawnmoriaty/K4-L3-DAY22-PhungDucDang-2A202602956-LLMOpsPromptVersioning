@@ -8,6 +8,17 @@
 > | [SUBMISSION.md](SUBMISSION.md) | Tên repo, cấu trúc nộp bài, nơi nộp, deadline |
 > | [RULES.md](RULES.md) | Quy định sử dụng AI, sao chép, nộp muộn, bảo mật API key |
 
+## 📌 Thông tin Nộp bài (Submission Details)
+
+- **Họ và tên:** Phùng Đức Đăng
+- **Mã số sinh viên (MSSV):** `2A202602956`
+- **LangSmith Project URL:** [https://smith.langchain.com/o/7fd8784f-36e2-4f2b-81a2-efec7221072b/projects/p/e5c2cc52-becc-4e9e-8a9c-02198d855ba1](https://smith.langchain.com/o/7fd8784f-36e2-4f2b-81a2-efec7221072b/projects/p/e5c2cc52-becc-4e9e-8a9c-02198d855ba1)
+- **Ảnh minh chứng LangSmith Traces:** [`evidence/01_langsmith_traces.png`](evidence/01_langsmith_traces.png)
+- **Ảnh minh chứng Project Dashboard (Backup khi link lỗi):** [`evidence/04_langsmith_project.png`](evidence/04_langsmith_project.png) (ghi nhận 1,793 traces thực thi đầy đủ)
+- **Báo cáo phân tích RAGAS Prompt V1 vs V2:** Xem tại [`evidence/README.md`](evidence/README.md).
+
+---
+
 # Chào mừng các bạn đến với Day 22: LangSmith + Prompt Versioning
 
 ## Tổng quan
